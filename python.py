@@ -56,3 +56,4 @@ dict_homework = {
         "f":None,
     },
 }
+print(dict_homework["key1"]["s"][10]["mm"][1])
